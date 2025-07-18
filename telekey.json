@@ -6,6 +6,14 @@
     "expiresAt": "2028-12-31",
     "allowOffline": true
   },
+  [
+  {
+    "id": "KOSONG",
+    "username": "marwan",
+    "password": "12345678",
+    "expiresAt": "2028-12-31",
+    "allowOffline": true
+  },
   {
     "id": "android_device_id_2",
     "username": "user2",
