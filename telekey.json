@@ -1,16 +1,9 @@
-[
+
+ [
   {
     "id": "12f30422e72b45a6",
     "username": "marwan",
-    "password": "12345678",
-    "expiresAt": "2029-12-31",
-    "allowOffline": true
-  },
-  [
-  {
-    "id": "KOSONG",
-    "username": "marwan",
-    "password": "12345678",
+    "password": "123",
     "expiresAt": "2028-12-31",
     "allowOffline": true
   },
